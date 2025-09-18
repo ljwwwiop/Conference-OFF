@@ -1,6 +1,7 @@
 # **_ConferenceSick_**  
 From zero to submission — a first-time researcher's journey. Keep it up!  
--"天道酬勤，xxx"
+- ——"**脚踏实地，天道酬勤，一步一个脚印...**"
+
 ---
 
 ### 📝 Paper Round 1  
